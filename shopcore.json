@@ -1,0 +1,100 @@
+{
+     "aim": {
+          "aim_key": 5,
+          "bone": 67,
+          "fov": 124.0,
+          "mouse_aim": true,
+          "show_crosshair": false,
+          "show_fov": true,
+          "smoothness": 1.5,
+          "visible_check": false
+     },
+     "colors": {
+          "crosshair_color": [
+               255.0,
+               255.0,
+               255.0,
+               255.0
+          ],
+          "fov_color": [
+               255.0,
+               255.0,
+               255.0,
+               255.0
+          ],
+          "invisible_color": [
+               255.0,
+               0.0,
+               0.0,
+               255.0
+          ],
+          "visible_color": [
+               0.0,
+               255.0,
+               98.0,
+               255.0
+          ]
+     },
+     "misc": {
+          "gay_mode": false,
+          "vsync": true
+     },
+     "radar": {
+          "cross": true,
+          "local_player": true,
+          "radar_enabled": true,
+          "range": 300.0
+     },
+     "sexcrosshair": {
+          "Crosshair": true,
+          "FOVChanger": false,
+          "FOVVALUE": 86,
+          "Playersize_big_tiny": false,
+          "Spinbot": false,
+          "bigortiny": 1,
+          "carfly": false,
+          "invisible": false,
+          "menuAlpha": 0.0
+     },
+     "trig": {
+          "enable": false,
+          "shotgun_only": false,
+          "speed": 1.0,
+          "trig_key": 5
+     },
+     "vis": {
+          "box": true,
+          "box_thickness": 2.0,
+          "box_type": 0,
+          "distance": true,
+          "filled": false,
+          "head": false,
+          "ignore_teamates": false,
+          "kill_count": true,
+          "outline": false,
+          "penis": false,
+          "platform": false,
+          "rank": true,
+          "render_distance": 2555.0,
+          "season_level": false,
+          "show_nearby_players": false,
+          "show_visible_players": false,
+          "skeleton": false,
+          "skeleton_thickness": 1.0,
+          "text_background": false,
+          "thanked_bus_driver": false,
+          "username": false,
+          "warning_arrows": false,
+          "weapon": false
+     },
+     "world": {
+          "chests": false,
+          "common_loot": false,
+          "epic_loot": false,
+          "legendary_loot": false,
+          "llamas": false,
+          "mythic_loot": false,
+          "rare_loot": false,
+          "uncommon_loot": false
+     }
+}
