@@ -1,0 +1,10 @@
+#pragma once
+#include <Windows.h>
+#include "communications/driver.hpp"
+#include "settings/settings.hpp"
+#include "game/offsets.hpp"
+#include "game/sdk.hpp"
+#include "settings/defs.hpp"
+#include "crypt/spoof.hpp"
+#include "crypt/xorstr.h"
+#include "game/game.hpp"
